@@ -9,6 +9,7 @@
     <modules>
         <module>rabbitmq-provider</module>
         <module>rabbitmq-consumer</module>
+        <module>rabbitmq-consumer-node2</module>
         <module>rabbitmq-common</module>
     </modules>
     <packaging>pom</packaging>
